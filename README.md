@@ -5,7 +5,7 @@ By Pedro Milanez
 
 ### Make it Simple - Linkedin Share
 
-
+![Image](https://pbs.twimg.com/media/A30tKJICcAA8vwd.jpg:large)
 Introduction
 ------------
 
