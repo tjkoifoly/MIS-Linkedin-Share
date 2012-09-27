@@ -22,8 +22,8 @@ Features
 Usage
 -----
 
-#### Copy to your projeto:
-    MIS-Linkedin-Share Folder!
+#### Copy this folder to your project:
+    MIS-Linkedin-Share
 
 #### Import:
     #import "MISLinkedinShare.h"
